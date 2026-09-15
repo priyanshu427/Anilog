@@ -1,0 +1,4 @@
+ FastAPI (fastapi.tiangolo.com) - Route handlers (@app.get, @app.post), dependency injection (Depends), status codes, response models, and OAuth2/JWT authentication patterns.
+Pydantic v2 (docs.pydantic.dev) - Defining request/response models (BaseModel), data types, field validations (Field, EmailStr), and custom validation rules (@field_validator).
+SQLAlchemy 2.0 (docs.sqlalchemy.org)  - Defining database tables (Mapped, mapped_column), relationship definitions (relationship), session management (Session, AsyncSession), and querying data (select(), filter()).
+Optional : SQLModel (sqlmodel.tiangolo.com) - You define your database model once, and it serves as both your SQLAlchemy DB table and your Pydantic API schema. It unifies the documentation into one unified site designed specifically for FastAPI projects.

@@ -1,0 +1,27 @@
+# curl -LsSf https://astral.sh/uv/install.sh | sh // downloads a standalone binary and doesnt pollute system python or pip
+# uv init --bare // creates pyproject.toml and writes metadata of project in init
+# uv add "fastapi[standard]" // downloads all fastapi dependencies
+# uvicorn looks up for the object app for the fastapi class when intializing the dev server at main.py
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
